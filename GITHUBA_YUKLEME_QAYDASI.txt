@@ -1,0 +1,21 @@
+ELEKTRIKLER.ORG.AZ — GITHUB PAGES TAM PAKET
+
+Bu paketdə şəkillər də var:
+assets/img/
+
+GitHub-a yükləyəndə ZIP-in özünü yox, içindəki faylları yüklə.
+
+Düzgün struktur:
+index.html
+404.html
+CNAME
+.nojekyll
+robots.txt
+sitemap.xml
+site.webmanifest
+assets/
+  favicon.svg
+  img/
+
+Custom domain:
+elektrikler.org.az

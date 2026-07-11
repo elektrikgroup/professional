@@ -1,0 +1,15 @@
+GitHub Pages üçün DNS yazıları
+
+Əsas domen üçün A records:
+A     @     185.199.108.153
+A     @     185.199.109.153
+A     @     185.199.110.153
+A     @     185.199.111.153
+
+www üçün CNAME:
+CNAME www   elektrikgroup.github.io
+
+GitHub repository → Settings → Pages → Custom domain:
+elektrikler.org.az
+
+HTTPS aktivləşəndən sonra Enforce HTTPS seç.
