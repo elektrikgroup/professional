@@ -1,15 +1,1 @@
-{
-  "name": "Elektriklər.az",
-  "short_name": "Elektriklər",
-  "start_url": "/",
-  "display": "standalone",
-  "background_color": "#07111f",
-  "theme_color": "#07111f",
-  "icons": [
-    {
-      "src": "/assets/favicon.svg",
-      "sizes": "64x64",
-      "type": "image/svg+xml"
-    }
-  ]
-}
+{"name":"ERA Group Electrical Solutions","short_name":"ERA Group","start_url":"/","display":"standalone","background_color":"#07090d","theme_color":"#07090d","icons":[{"src":"assets/favicon.svg","sizes":"any","type":"image/svg+xml"}]}
